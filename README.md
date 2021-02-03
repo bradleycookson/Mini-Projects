@@ -1,4 +1,4 @@
-# Mini-Projects ReadMe
+# Mini-Projects
 Potential Resources:
 
 Python
