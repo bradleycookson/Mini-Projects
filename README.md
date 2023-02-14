@@ -9,7 +9,6 @@ Python
 5. https://levelup.gitconnected.com/20-python-packages-that-you-must-try-a81862c913f6
 6. https://levelup.gitconnected.com/10-python-tips-for-better-code-1bbffde3b44d
 7. https://github.com/guipsamora/pandas_exercises
-Numpy?
 
 SQL
 
